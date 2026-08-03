@@ -1,0 +1,15 @@
+# 301 redirects for legacy URLs found in Google Search Console crawl data
+# (old WordPress/MPG platform pages no longer part of the current site)
+/security-camera-installation-fort-worth /security-camera-installation-fort-worth-tx 301
+/privacy-policy / 301
+/my-account / 301
+/shop / 301
+/shop-all / 301
+/contactus /free-security-camera-quote-fort-worth 301
+/sitemap.html /sitemap 301
+/index.html / 301
+/index.php / 301
+/contact-us/ /free-security-camera-quote-fort-worth 301
+
+# SPA fallback for all other routes
+/* /index.html 200

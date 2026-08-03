@@ -1,0 +1,6 @@
+{
+  "name": "Fort Worth Security Cameras",
+  "description": "Premier security camera installation in Fort Worth, TX. Professional 4K CCTV, PoE, and wireless surveillance systems for homes and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
